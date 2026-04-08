@@ -1,3 +1,206 @@
+# 🧠 OpenClaw Zero Token — GitDigital Edition
+
+> Autonomous AI. Zero token anxiety. Fully sovereign control.
+
+Welcome to the **official GitDigital-powered evolution** of OpenClaw Zero Token.
+
+This is not just a fork.
+This is a **re-homed, re-architected, and extended agent system** built for builders who want **full-stack AI autonomy without bleeding tokens or losing control**.
+
+---
+
+## ⚡ What This Is
+
+**OpenClaw Zero Token (GitDigital Edition)** is a customized AI agent framework built on top of OpenClaw — an open-source system designed for autonomous AI assistants that can run locally and execute real-world tasks. ([media.licdn.com][1])
+
+We’ve taken that foundation and pushed it further:
+
+* 🧩 Modular agent architecture
+* 🔗 Webhook-first ecosystem (GitHub, APIs, automations)
+* 💸 Zero-token / cost-optimized philosophy
+* 🛡️ Sovereign + privacy-first deployment mindset
+* ⚙️ Built for real infrastructure — not just demos
+
+---
+
+## 🧬 Why This Exists
+
+Running AI agents shouldn’t feel like watching your wallet burn.
+
+Most setups:
+
+* Require constant API billing
+* Leak tokens through inefficient prompts
+* Lack real system-level control
+
+This project flips that.
+
+> **Run smarter. Spend less. Own everything.**
+
+---
+
+## 🚀 Core Features
+
+### 🧠 Autonomous AI Agents
+
+* Persistent context + memory
+* Multi-agent coordination (One / Zero / custom roles)
+* Command-driven workflows
+
+### 🔌 Webhook & Event Engine
+
+* GitHub integrations (PRs, issues, discussions)
+* Real-time automation pipelines
+* Agent-triggered responses
+
+### 💰 Zero-Token Philosophy
+
+* No hardcoded provider lock-in
+* Designed for local models / optimized routing
+* Cost-aware execution layer
+
+### 🛠️ Builder-First Infrastructure
+
+* Docker-ready environments
+* Extendable plugin system
+* YAML / JSON configurable core
+
+### 🔐 Sovereign Control
+
+* Run locally, cloud, or hybrid
+* No forced SaaS dependencies
+* Full ownership of data + execution
+
+---
+
+## 🏗️ Architecture (Simplified)
+
+```
+User / Events
+      ↓
+ Webhooks / Inputs
+      ↓
+ Agent Gateway
+      ↓
+  Multi-Agent Core
+ (One / Zero / Custom)
+      ↓
+ Skills / Plugins / Actions
+      ↓
+ External Systems (GitHub, APIs, Files, etc.)
+```
+
+---
+
+## 🔌 Example Use Cases
+
+* 🤖 Autonomous GitHub assistant (issues, PR reviews, automation)
+* 📊 Data analysis + reporting agents
+* 🧑‍💻 Dev copilots with memory + execution
+* 🏢 Business workflow automation
+* 🔁 Multi-agent coordination systems
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Install Dependencies
+
+```bash
+# Install OpenClaw base
+curl -fsSL https://get.openclaw.ai/install.sh | sh
+```
+
+### 2. Configure Your Environment
+
+```bash
+openclaw setup
+```
+
+### 3. Run Your Agent
+
+```bash
+openclaw start
+```
+
+> ⚠️ Recommended: Use local models (Ollama, etc.) for true zero-token operation.
+
+---
+
+## 🧩 GitDigital Ecosystem Integration
+
+This project is part of the **GitDigital Systems Network**, meaning it is designed to plug into:
+
+* 🧠 AI PaaS infrastructure
+* 🔗 Webhook orchestration layers
+* 🏦 Financial + transaction systems
+* 🧬 Multi-repo agent coordination
+
+---
+
+## 🛡️ Security Mindset
+
+We build assuming:
+
+* Agents can be attacked
+* Plugins can be malicious
+* Tokens can leak
+
+So this system is designed for:
+
+* Minimal external exposure
+* Auditability
+* Controlled execution flows
+
+---
+
+## 🧠 Philosophy
+
+> “Don’t rent intelligence. Own it.”
+
+This repo exists for builders who:
+
+* Want **real control over AI systems**
+* Care about **cost efficiency at scale**
+* Are building **something bigger than a chatbot**
+
+---
+
+## 🤝 Contributing
+
+We welcome:
+
+* Plugins
+* Agent templates
+* Security improvements
+* Cost optimization strategies
+
+Fork it. Break it. Upgrade it.
+
+---
+
+## 📜 License
+
+MIT — Use it, build on it, scale it.
+
+---
+
+## ⚡ Final Note
+
+This is just one piece of a larger system.
+
+If you’re here early, you’re not late —
+you’re **positioned**.
+
+---
+
+[1]: https://media.licdn.com/dms/document/media/v2/D561FAQFTrZ05XJHpZw/feedshare-document-pdf-analyzed/B56ZyI7233GwAY-/0/1771823920622?e=1773273600&t=VPLjTiGMgT3ifiP00UwpNuDgp2mvFZUIL86PeIlfnJg&v=beta&utm_source=chatgpt.com "OpenClaw User Guide"
+
+https://venmo.com/code?user_id=4570485455062547838&created=1775612892
+
+https://ko-fi.com/gitdigitalzeroknowledge/10
+https://ko-fi.com/gitdigitalzeroknowledge/tip
+
 # OpenClaw Zero Token
 
 **Use LLMs without API tokens** — log in via browser once, then call ChatGPT, Claude, Gemini, DeepSeek, Qwen (intl/cn), Doubao, Kimi, Zhipu GLM, Grok, Xiaomi MiMo, Manus and more for free through a unified gateway.
